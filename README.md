@@ -1,7 +1,7 @@
 # Rest API Python Django
 
 ## Description
-Rest API Example Python Django
+Restful API Example Python Django
 
 ## Onboarding and Development Guide
 ### Prerequisites
